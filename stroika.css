@@ -3,7 +3,7 @@
 	padding: 0;
 }
 body {
-	background: #f3f9fa url("img/bg.jpg") repeat;
+	background: #f3f9fa url("bg.jpg") repeat;
 	font: 14px/22px Arial;
 	color: 464646;
 	box-sizing: border-box;
@@ -16,7 +16,7 @@ body {
 }
 #header {
 	height: 148px;
-	background:white url("img/bg-header.jpg") left top no-repeat;
+	background:white url("bg-header.jpg") left top no-repeat;
 }
 #footer {
 	height: 50px;
@@ -91,7 +91,7 @@ p {
 }
 #navigation {
 	height: 43px;
-	background:transparent url("img/bg-navigation.png") repeat-x;
+	background:transparent url("bg-navigation.png") repeat-x;
 	clear: both;
 }
 #navigation>ul {
